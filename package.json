@@ -30,7 +30,7 @@
     "@openzeppelin/contracts": "^4.6.0",
     "@openzeppelin/contracts-upgradeable": "^4.6.0",
     "@openzeppelin/hardhat-upgrades": "^1.18.1",
-    "csv-parse": "^5.1.0"
+    "csv-parse": "^5.5.6"
   },
   "devDependencies": {
     "@dimensiondev/eslint-plugin": "^0.0.2-20220516081411-2649814",
